@@ -1,0 +1,92 @@
+.upper{
+    margin:0 4rem 1.6rem;
+}
+    
+
+
+
+#logo{
+    width:8rem;
+    height:5rem;
+    padding-top: 4px;
+}
+
+
+
+#yono{
+    width:7rem;
+    height:5rem;
+    padding-top: 4px;
+    padding-right: 1rem;
+}
+
+h1{
+    font-size:1rem;
+}
+
+
+.ab{
+    position: absolute;
+    left:23rem;
+    top:8rem;
+}
+
+.he{
+    font-size: 1.5rem;
+    position:absolute;
+    left:21rem;
+    top:13rem;
+}
+
+
+.she{
+    position: absolute;
+    left:14rem;
+    top:16rem;
+}
+
+.it{
+    position: absolute;
+    left:14rem;
+    top:18rem;
+}
+
+.personal{
+    padding:1.6rem 0 1.2rem 20rem ;
+}
+
+.vertical{
+    width:0.2rem;
+    height:17rem;
+    background-color: black;
+    position: absolute;
+    left:47rem;
+    top:7rem;
+}
+
+
+.bc{
+    position: absolute;
+    left:60rem;
+    top:9rem;
+}
+
+.cd{
+    font-size: 1.5rem;
+    position: absolute;
+    left:60rem;
+    top:12.5rem;
+}
+
+.de{
+    position: absolute;
+    left:53rem;
+    top:16rem;
+}
+
+
+.ef{
+    position: absolute;
+    left:53rem;
+    top:18rem;
+}
